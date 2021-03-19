@@ -1,4 +1,4 @@
-# Social-Login - Asset
+# Social-Login-Asset
 
 **Social login enables users to log in to React store by using a social networking account, rather than using credentials dedicated to HCL Commerce which will make the sign up and login process quicker**
 
